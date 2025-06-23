@@ -1,8 +1,5 @@
 # Customer Churn Prediction System
 
-![Project Banner](https://via.placeholder.com/800x200?text=Customer+Churn+Prediction+with+ANN) 
-*(Replace with actual banner image if available)*
-
 ## 📌 Overview
 A machine learning system that predicts whether a bank customer is likely to churn (leave the service) using an Artificial Neural Network (ANN). The model is deployed as an interactive web application using Streamlit.
 
