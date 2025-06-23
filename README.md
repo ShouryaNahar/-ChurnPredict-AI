@@ -14,7 +14,6 @@ A machine learning system that predicts whether a bank customer is likely to chu
 | Category       | Technologies |
 |----------------|--------------|
 | Frontend       | Streamlit |
-| Backend        | Python, TensorFlow/Keras |
+| Backend        | Python, TensorFlow |
 | Data Processing| Pandas, NumPy, Scikit-learn |
 | Model Training | ANN (Artificial Neural Network) |
-| Deployment     | Streamlit Sharing, Heroku (optional) |
