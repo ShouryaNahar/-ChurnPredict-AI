@@ -18,5 +18,3 @@ A machine learning system that predicts whether a bank customer is likely to chu
 | Data Processing| Pandas, NumPy, Scikit-learn |
 | Model Training | ANN (Artificial Neural Network) |
 | Deployment     | Streamlit Sharing, Heroku (optional) |
-
-## 📂 Project Structure
